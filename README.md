@@ -13,3 +13,6 @@
     change to  git reset --soft и git restore;
 
     change to change
+
+    The Final Change
+    
