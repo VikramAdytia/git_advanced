@@ -4,4 +4,12 @@
    3. Подключите свой проект к этому удалённому репозиторию и отправьте в него код этого проекта. Самостоятельно разрешите конфликты и проблемы, если они возникнут при выполнении данного задания.
 
     local conflict
-   remote conflict
+    remote conflict
+
+    change to git reset --hard.
+
+    change to git reset --mixed и git restore;
+
+    change to  git reset --soft и git restore;
+
+    change to change
