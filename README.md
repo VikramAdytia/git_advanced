@@ -7,3 +7,5 @@
     remote conflict
 
     change to git reset --hard.
+
+    change to git reset --mixed и git restore;
