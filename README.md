@@ -9,7 +9,3 @@
     change to git reset --hard.
 
     change to git reset --mixed и git restore;
-
-    change to  git reset --soft и git restore;
-
-    change to change
